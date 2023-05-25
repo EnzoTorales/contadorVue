@@ -3,7 +3,7 @@ const {createApp}  = Vue;
 createApp ({
     data(){
         return {
-            titulo: "Contador",
+            titulo: "CONTADOR",
             numero: 0
         }
     },
