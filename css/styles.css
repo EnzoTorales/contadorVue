@@ -1,0 +1,21 @@
+* {
+    background-color: darkgrey;
+    text-align: center;
+}
+
+header {
+    background-color: darkslategrey;
+    padding: 5px;
+    
+}
+
+h1 {
+    background-color: transparent;
+}
+
+button {
+    margin: 10px;
+    border-radius: 15px;
+    background-color: black;
+    color:aliceblue;
+}
